@@ -1,0 +1,14 @@
+#error {
+    color: tomato;
+}
+
+.note {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
